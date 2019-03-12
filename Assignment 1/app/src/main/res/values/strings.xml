@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Assignment 1</string>
+    <string name="next">Next</string>
+    <string name="question_1">question-1</string>
+    <string name="question_2">question-2</string>
+    <string name="question_3">question-3</string>
+    <string name="radio_btn_check_alter">"Please select one of the answers ! ! !"</string>
+    <string name="restart">Restart</string>
+    <string name="Congratz">"Congratulation !! \n Your total points for this quiz out of 5 is"</string>
+    <string name="text">Text</string>
+    <string name="start_again">Start Again</string>
+    <string name="share">"Share to "</string>
+    <string name="textPlain">"text/plain"</string>
+    <string name="start">Start</string>
+    <string name="welcome">"Welcome to Comp 3617 Quiz App \n Press "Start" button to begin"</string>
+
+    <string-array name="Questions">
+        <item>"In Alice's Adventures in Wonderland, which game was played by the Queen of Hearts using hedgehogs as balls ?"</item>
+        <item>"Which country's population consist mostly of Flemings and Walloons ?"</item>
+        <item>"Where in the human body is the stapedius muscle situated ?"</item>
+        <item>"Which of these elements is not named after a scientist ?"</item>
+        <item>"In which present-day country was the Battle of Waterloo fought ?"</item>
+    </string-array>
+
+    <string-array name="Question1">
+        <item>"Quintet"</item>
+        <item>"Denmark"</item>
+        <item>"Nose"</item>
+        <item>"Einsteinium"</item>
+        <item>"France"</item>
+    </string-array>
+
+    <string-array name="Question2">
+        <item>"Quidditch"</item>
+        <item>"Belgium"</item>
+        <item>"Ears"</item>
+        <item>"Ruthenium"</item>
+        <item>"Iran"</item>
+    </string-array>
+
+    <string-array name="Question3">
+        <item>"Croquet"</item>
+        <item>"Paraguay"</item>
+        <item>"Leg"</item>
+        <item>"Curium"</item>
+        <item>"Belgium"</item>
+    </string-array>
+
+    <string-array name="Answer">
+        <item>"Croquet"</item>
+        <item>"Belgium"</item>
+        <item>"Ears"</item>
+        <item>"Ruthenium"</item>
+        <item>"Belgium"</item>
+    </string-array>
+</resources>
